@@ -563,6 +563,7 @@ footer select option{
     }
     .TV, .phonesection, .devices, .kids{
         padding: 50px 0px;
+        width: 480px;
     } 
     .tvclipkids img{
         width: 80%;
@@ -581,6 +582,7 @@ footer select option{
     }
     .qst {
         padding: 40px 0px;
+        width: 480px;
     }
     .question div, .question button{
         width: 100%;
