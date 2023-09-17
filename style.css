@@ -513,6 +513,7 @@ footer select option{
 @media (max-width:550px) {
     .main{
         padding-bottom: 0;
+        width:480px;
     }
     .main h1{
         font-size: 1.75rem;
