@@ -90,6 +90,8 @@ h4{
     border: 2px solid rgba(255, 255, 255, 0.663);
     border-top-left-radius: 2px;
     border-bottom-left-radius: 2px;
+    color: black;
+    font-size: 1.7rem;
 }
 input:focus {
     outline:none;
@@ -620,6 +622,10 @@ footer select option{
     }
     .email1 h4{
         font-size: 1.3rem;
+    }
+    .form input{
+        color: black;
+        font-size: 1rem;
     }
     
 }
