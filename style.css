@@ -396,8 +396,8 @@ footer select option{
     } */
     .form input{
         color: black;
-        font-size: 1.7em; 
-        padding-left: 60px;
+        font-size: 1.4rem; 
+        padding-left: 96px;
     }
 }
 
